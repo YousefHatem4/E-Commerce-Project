@@ -1,5 +1,4 @@
 import React, { createContext, useEffect, useState } from 'react'
-import style from './WishContext.module.css'
 import axios from 'axios'
 import toast from 'react-hot-toast';
 
