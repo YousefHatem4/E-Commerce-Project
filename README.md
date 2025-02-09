@@ -1,8 +1,36 @@
-# React + Vite
+# E-Commerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 A fully responsive **E-Commerce Website** built with **React.js** and **Tailwind CSS**, completed within 1 week.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
+🔗 [E-Commerce Website](https://e-commerce-project-9gwh.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Features
+- 🛍️ **100% Responsive Design** - Optimized for all devices.
+- ⚡ **Fast & Lightweight** - Built with React.js and Tailwind CSS.
+- 🎨 **Modern UI/UX** - Clean and intuitive user interface.
+- 🔍 **Product Search & Filtering** - Easy navigation and product discovery.
+- 🛒 **Shopping Cart Functionality** - Add, remove, and update products.
+- 💳 **Secure Checkout Process** - Simulated checkout experience.
+
+## 🛠️ Technologies Used
+- **React.js** - Frontend framework
+- **Tailwind CSS** - Styling framework
+- **React Router** - Navigation management
+- **Vercel** - Deployment platform
+
+## 📂 Installation & Setup
+Follow these steps to run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/e-commerce-project.git
+
+# Navigate to project directory
+cd e-commerce-project
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
