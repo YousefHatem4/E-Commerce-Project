@@ -30,7 +30,8 @@ const routers = createBrowserRouter([
     path: "",
     element: <Layout />,
     children: [
-      { path: 'register', element: <Register /> },
+      {
+        path: 'register', element: <Register /> },
       { index: true, element: <ProtectedRoute><Home /></ProtectedRoute> },
       { path: "brands", element: <ProtectedRoute><Brands /></ProtectedRoute> },
       { path: "cart", element: <ProtectedRoute><Cart /></ProtectedRoute> },
